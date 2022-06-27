@@ -2,7 +2,7 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/1.peg',
+		image: 'img/1.png',
 		
 		title: 'مهدئة الأعصاب الوسيلة ناجحة  مئة بالمئة   '  ,
 		price1: 3900,
