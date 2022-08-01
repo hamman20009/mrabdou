@@ -7,7 +7,7 @@ const products = [
 		
 		title: ' علاج النهائي لمرض السكري و تنشيط البنكرياس   ',
 		price1: 3900,
-		price: 3400,
+		price: 2900,
 		description: '  '   ,
 		phone: 0554139163,
 	},
