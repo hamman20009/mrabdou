@@ -4,9 +4,9 @@ const products = [
 		logo:'img/logo.png',
 		image: 'img/1.jpg',
 		
-		title: 'العسل الملكي باك للرجال المتزوجين       '  ,
+		title: 'عشبة السكري الناجحة       '  ,
 		price1: 4000,
-		price: 3500,
+		price: 3400,
 		description: '    '  ,
 		phone:0554139163,
 	},
