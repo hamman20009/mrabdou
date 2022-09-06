@@ -2,13 +2,13 @@ const products = [
 	{
 		id: 2,
 		logo:'img/logo.png',
-		image: 'img/1.jpg',
+		image: 'img/1.png',
 
 
 		
-		title: 'عشبة السكري الناجحة       '  ,
+		title: 'مشروب للعلاج النهائي للربو        '  ,
 		price1: 4000,
-		price: 3400,
+		price: 3200,
 		description: '    '  ,
 		phone:0554139163,
 	},
