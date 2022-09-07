@@ -6,9 +6,9 @@ const products = [
 
 
 		
-		title: 'مشروب للعلاج النهائي للربو        '  ,
+		title: 'العلاج المثالي لمرضضى السكري        '  ,
 		price1: 4000,
-		price: 3200,
+		price: 2900,
 		description: '    '  ,
 		phone:0554139163,
 	},
