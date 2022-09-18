@@ -6,7 +6,7 @@ const products = [
 
 
 		
-		title: 'العلاج المثالي لمرضضى السكري        '  ,
+		title: 'العلاج المثالFFFFFFFFFي لمرضضى السكري        '  ,
 		price1: 4000,
 		price: 2900,
 		description: '    '  ,
