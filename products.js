@@ -8,7 +8,7 @@ const products = [
 		
 		title: 'العلاج المثالFFFFFFFFFي لمرضضى السكري        '  ,
 		price1: 4000,
-		price: 2900,
+		price: 2944400,
 		description: '    '  ,
 		phone:0554139163,
 	},
